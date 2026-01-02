@@ -1,0 +1,3 @@
+Query/Text ID,Input (Query/Text),Rated Item (Result/AI Text),Rating (Relevance/Linguistic Quality),Justification,Indian English Context Notes
+SQ-001,how to apply for Aadhar card online,uidai.gov.in/aadhar-apply,Highly Relevant,Official Indian government source with step-by-step local instructions,Uses "Aadhar" (standard Indian term)
+LQ-001,Get a flat in Mumbai via a broker,AI Text: "Rent an apartment in Mumbai through a real estate agent",Needs Revision,"Apartment" should be "flat" (Indian English); "real estate agent" is acceptable,Colloquial Indian English prefers "flat" over "apartment" for residential housing
